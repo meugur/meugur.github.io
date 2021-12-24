@@ -18,6 +18,7 @@ My research interests are in computer systems, specifically at the intersections
 
 News
 ======
+* [January 2022] _Understanding Branch Prediction in Datacenter Applications_ accepted into YArch '22 
 * [May 2021] Graduated with an M.S. from the University of Michigan (CSE SUGS)
 * [April 2021] _Multi-Application Linux Kernel Profile_ accepted into PLDI SRC 2021
 * [May 2020] Completed my Honors Thesis titled, _Feasibility of Client-side Browser Script Rewriting_, advised by Prof. Harsha Madhyastha
