@@ -7,18 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a research assistant at the University of Michigan, working with [Prof. Baris Kasikci](https://web.eecs.umich.edu/~barisk/), [Prof. Mosharaf Chowdhury](https://www.mosharaf.com/), and [Tanvir Ahmed Khan](https://web.eecs.umich.edu/~takh/). Previously, I completed my M.S. (Winter 2021) at the University of Michigan. Before that, I graduated with my B.S. (Winter 2020) at the same institution, where I completed my Honors Thesis advised by [Prof. Harsha Madhyastha](https://harshavm.engin.umich.edu/). 
-
-**I am applying to Ph.D. programs for Fall 2022. Please contact me if you are looking for students interested in systems research.**
+I am a first year PhD student at Yale University, working with [Prof. Abhishek Bhattacharjee](https://cs.yale.edu/homes/abhishek) in the Computer Systems Lab. Previously, I obtained my BS/MS from the University of Michigan, where I worked with Prof. Baris Kasikci, Prof. Mosharaf Chowdhury, Prof. Harsha Madhyastha, and Tanvir Ahmed Khan.
 
 Research
 ======
 
-My research interests are in computer systems, specifically at the intersections of computer architecture, operating systems, compilers, and machine learning. Right now, I am interested in performance optimizations for datacenter applications, including ML workloads. Topics that I am working on include profile-guided optimizations, hardware/software co-design, and MLSys.
+My research interests are in computer systems, specifically at the intersections of computer architecture, operating systems, compilers, and machine learning. Right now, I am interested in the systems challenges of [brain-computer interfaces](https://www.sigarch.org/informing-brain-computer-interface-design-with-insights-from-computer-architecture-research). Topics that I have worked on include profile-guided optimizations and hardware/software co-design for data center applications.
 
 News
-======
-* [January 2022] _Understanding Branch Prediction in Datacenter Applications_ accepted into YArch '22 
-* [May 2021] Graduated with an M.S. from the University of Michigan (CSE SUGS)
-* [April 2021] _Multi-Application Linux Kernel Profile_ accepted into PLDI SRC 2021
-* [May 2020] Completed my Honors Thesis titled, _Feasibility of Client-side Browser Script Rewriting_, advised by Prof. Harsha Madhyastha
+-----
+<span style="color:blue">[09/22]</span> _Whisper_ nominated for the Best Paper Award at **MICRO '22**  
+<span style="color:blue">[08/22]</span> Starting PhD at Yale!  
+<span style="color:blue">[07/22]</span> _Whisper_ accepted into **MICRO '22**  
+<span style="color:blue">[06/22]</span> _One Profile Fits All_ appears in **SIGOPS Operating System Review**  
+<span style="color:blue">[01/22]</span> _Understanding Branch Prediction in Data Center Applications_ accepted into **YArch '22**  
+<span style="color:blue">[05/21]</span> Graduated with a M.S. from the University of Michigan (CSE SUGS)  
+<span style="color:blue">[04/21]</span> _Multi-Application Linux Kernel Profile_ accepted into **PLDI SRC '21**  
+<span style="color:blue">[05/20]</span> Graduated with a B.S. from the University of Michigan and completed my Honors Thesis 

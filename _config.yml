@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Muhammed Ugur"
   avatar           : "profile.jpg"
-  bio              : "Student | Researcher | Software Engineer"
-  location         : "Michigan, USA"
+  bio              : " "
+  location         : "New Haven, CT"
   employer         :
   pubmed           : 
-  googlescholar    : 
-  email            : "meugur@umich.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=TcBODj4AAAAJ&hl=en"
+  email            : "muhammed.ugur@yale.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
