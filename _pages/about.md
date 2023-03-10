@@ -16,11 +16,11 @@ My research interests are in computer systems, specifically at the intersections
 
 News
 -----
-<span style="color:blue">[10/22]</span> _Whisper_ wins Best Paper Award at **MICRO '22**! 🏅  
+<span style="color:blue">[10/22]</span> [_Whisper_](https://meugur.github.io/files/whisper-micro-22.pdf) wins Best Paper Award at **MICRO '22**! 🏅  
 <span style="color:blue">[09/22]</span> _Whisper_ nominated for the Best Paper Award at **MICRO '22**  
 <span style="color:blue">[08/22]</span> Starting PhD at Yale!  
 <span style="color:blue">[07/22]</span> _Whisper_ accepted into **MICRO '22**  
-<span style="color:blue">[06/22]</span> _One Profile Fits All_ invited to appear in **SIGOPS OSR**  
+<span style="color:blue">[06/22]</span> [_One Profile Fits All_](https://meugur.github.io/files/one-profile-fits-all-osr-22.pdf) invited to appear in **SIGOPS OSR**  
 <span style="color:blue">[01/22]</span> _Understanding Branch Prediction in Data Center Applications_ accepted into **YArch '22**  
 <span style="color:blue">[05/21]</span> Graduated with a M.S. from the University of Michigan (CSE SUGS)  
 <span style="color:blue">[04/21]</span> _Multi-Application Linux Kernel Profile_ accepted into **PLDI SRC '21**  
