@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year PhD student at Yale University, working with [Prof. Abhishek Bhattacharjee](https://cs.yale.edu/homes/abhishek) in the Computer Systems Lab. Previously, I obtained my BS/MS from the University of Michigan, where I worked with Prof. Baris Kasikci, Prof. Mosharaf Chowdhury, Prof. Harsha Madhyastha, and Tanvir Ahmed Khan.
+I am a first year PhD student at Yale University working with [Prof. Abhishek Bhattacharjee](https://cs.yale.edu/homes/abhishek) in the Computer Systems Lab. Previously, I obtained my BS/MS from the University of Michigan, where I worked with Prof. Baris Kasikci, Prof. Mosharaf Chowdhury, Prof. Harsha Madhyastha, and Tanvir Ahmed Khan.
 
 Research
 ======
@@ -16,7 +16,8 @@ My research interests are in computer systems, specifically at the intersections
 
 News
 -----
-<span style="color:blue">[03/23]</span> _SCALO_ accepted into **ISCA '23**  
+<span style="color:blue">[05/23]</span> _SCALO_ nominated for the Best Paper Award at **ISCA '23**!  
+<span style="color:blue">[03/23]</span> [_SCALO_](https://meugur.github.io/files/scalo-isca-23.pdf) accepted into **ISCA '23**  
 <span style="color:blue">[10/22]</span> _Whisper_ wins Best Paper Award at **MICRO '22**! 🏅  
 <!-- <span style="color:blue">[09/22]</span> _Whisper_ nominated for the Best Paper Award at **MICRO '22**  -->
 <span style="color:blue">[08/22]</span> Starting PhD at Yale!  

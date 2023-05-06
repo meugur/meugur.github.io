@@ -8,6 +8,7 @@ _SCALO: An Accelerator-Rich Distributed System for Scalable Brain-Computer Inter
 </span>
 Karthik Sriram, Raghavendra Pradyumna Pothukuchi, Michal Gerasimiuk, **Muhammed Ugur**, Oliver Ye, Rajit Manohar, Anurag Khandelwal, Abhishek Bhattacharjee,
 In Proceedings of the 50th International Symposium on Computer Architecture (ISCA), June, 2023.  
+[[pdf]](https://meugur.github.io/files/scalo-isca-23.pdf)
 
 <span style="color:blue">
 _Whisper: Profile-Guided Branch Misprediction Elimination for Data Center Applications_,  
