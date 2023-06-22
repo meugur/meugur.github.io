@@ -16,7 +16,8 @@ My research interests are in computer systems, specifically at the intersections
 
 News
 -----
-<span style="color:blue">[05/23]</span> _SCALO_ nominated for the Best Paper Award at **ISCA '23**!  
+<span style="color:blue">[06/23]</span> _SCALO_ wins the Best Paper Award at **ISCA '23**! 🏅  
+<!-- <span style="color:blue">[05/23]</span> _SCALO_ nominated for the Best Paper Award at **ISCA '23**!  -->
 <span style="color:blue">[03/23]</span> [_SCALO_](https://meugur.github.io/files/scalo-isca-23.pdf) accepted into **ISCA '23**  
 <span style="color:blue">[10/22]</span> _Whisper_ wins Best Paper Award at **MICRO '22**! 🏅  
 <!-- <span style="color:blue">[09/22]</span> _Whisper_ nominated for the Best Paper Award at **MICRO '22**  -->
