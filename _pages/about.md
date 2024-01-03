@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year PhD student at Yale University working with [Prof. Abhishek Bhattacharjee](https://cs.yale.edu/homes/abhishek) in the Computer Systems Lab. Previously, I obtained my BS/MS from the University of Michigan, where I worked with Prof. Baris Kasikci, Prof. Mosharaf Chowdhury, Prof. Harsha Madhyastha, and Tanvir Ahmed Khan.
+I am a second year PhD student at Yale University working with [Prof. Abhishek Bhattacharjee](https://cs.yale.edu/homes/abhishek) in the [Computer Systems Lab](https://csl.yale.edu/). Previously, I obtained my BS/MS from the University of Michigan, where I worked with [Prof. Baris Kasikci](https://homes.cs.washington.edu/~baris/) and [Prof. Tanvir Ahmed Khan](https://web.eecs.umich.edu/~takh/).
 
 Research
 ======
 
-My research interests are in computer systems, specifically at the intersections of computer architecture, operating systems, compilers, and machine learning. Right now, I am interested in the systems challenges of [brain-computer interfaces](https://www.sigarch.org/informing-brain-computer-interface-design-with-insights-from-computer-architecture-research). Topics that I have worked on include profile-guided optimizations and hardware/software co-design for data center applications.
+My research interest is in hardware-software co-design, specifically for [brain-computer interfaces](https://www.sigarch.org/informing-brain-computer-interface-design-with-insights-from-computer-architecture-research). I am currently working on designing scalable neural signal processors for both clinical treatment and scientific study through the [HALO](https://www.youtube.com/watch?v=eenFPogXcq4) project (partial tapeout at 12 nm). Previously, I worked on profile-guided optimizations in hardware and software for data center applications.
 
 News
 -----
@@ -25,6 +25,6 @@ News
 <span style="color:blue">[07/22]</span> [_Whisper_](https://meugur.github.io/files/whisper-micro-22.pdf) accepted into **MICRO '22**  
 <span style="color:blue">[06/22]</span> [_One Profile Fits All_](https://meugur.github.io/files/one-profile-fits-all-osr-22.pdf) invited to appear in **SIGOPS OSR**  
 <span style="color:blue">[01/22]</span> _Understanding Branch Prediction in Data Center Applications_ accepted into **YArch '22**  
-<span style="color:blue">[05/21]</span> Graduated with a M.S. from the University of Michigan (CSE SUGS)  
+<span style="color:blue">[05/21]</span> Graduated with a M.S. from the University of Michigan through [CSE SUGS](https://cse.engin.umich.edu/academics/graduate/graduate-programs/sugs-masters-in-cse/)  
 <span style="color:blue">[04/21]</span> _Multi-Application Linux Kernel Profile_ accepted into **PLDI SRC '21**  
 <span style="color:blue">[05/20]</span> Graduated with a B.S. from the University of Michigan and completed my Honors Thesis 
