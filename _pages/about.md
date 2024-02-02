@@ -7,19 +7,31 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year PhD student at Yale University working with [Prof. Abhishek Bhattacharjee](https://cs.yale.edu/homes/abhishek) in the [Computer Systems Lab](https://csl.yale.edu/). Previously, I obtained my BS/MS from the University of Michigan, where I worked with [Prof. Baris Kasikci](https://homes.cs.washington.edu/~baris/) and [Prof. Tanvir Ahmed Khan](https://web.eecs.umich.edu/~takh/).
+I am a second year PhD student at Yale University working with 
+[Prof. Abhishek Bhattacharjee](https://cs.yale.edu/homes/abhishek) in the 
+[Computer Systems Lab](https://csl.yale.edu/). Previously, I obtained my BS/MS 
+from the University of Michigan, where I worked with 
+[Prof. Baris Kasikci](https://homes.cs.washington.edu/~baris/) and 
+[Prof. Tanvir Ahmed Khan](https://web.eecs.umich.edu/~takh/).
 
 Research
 ======
 
-My research interest is in hardware-software co-design, specifically for [brain-computer interfaces](https://www.sigarch.org/informing-brain-computer-interface-design-with-insights-from-computer-architecture-research). I am currently working on designing scalable neural signal processors for both clinical treatment and scientific study through the [HALO](https://www.youtube.com/watch?v=eenFPogXcq4) project (partial tapeout at 12 nm). Previously, I worked on profile-guided optimizations in hardware and software for data center applications.
+My research interest is in hardware-software co-design, specifically for 
+[neural interfaces](https://www.sigarch.org/the-brain-computer-interfacing-landscape-for-computer-architects). 
+I am currently working on designing scalable neural signal processors for both 
+clinical treatment and scientific study through the 
+[HALO](https://www.youtube.com/watch?v=eenFPogXcq4) project (partial tapeout 
+at 12 nm). Previously, I worked on profile-guided optimizations in hardware 
+and software for data center applications.
 
 News
 -----
-<span style="color:blue">[06/23]</span> _SCALO_ wins the Best Paper Award at **ISCA '23**! 🏅  
+<span style="color:blue">[01/24]</span> _SCALO_ selected as a top pick in **IEEE Micro Top Picks '24**!  
+<span style="color:blue">[06/23]</span> _SCALO_ wins the Best Paper Award at **ISCA '23**!  
 <!-- <span style="color:blue">[05/23]</span> _SCALO_ nominated for the Best Paper Award at **ISCA '23**!  -->
 <span style="color:blue">[03/23]</span> [_SCALO_](https://meugur.github.io/files/scalo-isca-23.pdf) accepted into **ISCA '23**  
-<span style="color:blue">[10/22]</span> _Whisper_ wins Best Paper Award at **MICRO '22**! 🏅  
+<span style="color:blue">[10/22]</span> _Whisper_ wins Best Paper Award at **MICRO '22**!  
 <!-- <span style="color:blue">[09/22]</span> _Whisper_ nominated for the Best Paper Award at **MICRO '22**  -->
 <span style="color:blue">[08/22]</span> Starting PhD at Yale!  
 <span style="color:blue">[07/22]</span> [_Whisper_](https://meugur.github.io/files/whisper-micro-22.pdf) accepted into **MICRO '22**  
