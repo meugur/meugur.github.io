@@ -10,9 +10,8 @@ redirect_from:
 I am a second year PhD student at Yale University working with 
 [Prof. Abhishek Bhattacharjee](https://cs.yale.edu/homes/abhishek) in the 
 [Computer Systems Lab](https://csl.yale.edu/). Previously, I obtained my BS/MS 
-from the University of Michigan, where I worked with 
-[Prof. Baris Kasikci](https://homes.cs.washington.edu/~baris/) and 
-[Prof. Tanvir Ahmed Khan](https://web.eecs.umich.edu/~takh/).
+from the University of Michigan, where I worked with Prof. Baris Kasikci and 
+Prof. Tanvir Ahmed Khan.
 
 Research
 ======
@@ -27,6 +26,7 @@ and software for data center applications.
 
 News
 -----
+<span style="color:blue">[02/24]</span> [_Swapping-Centric Neural Recording Systems_](https://meugur.github.io/files/swapping-nvmw-24.pdf) accepted into **NVMW '24**  
 <span style="color:blue">[01/24]</span> _SCALO_ selected as a top pick in **IEEE Micro Top Picks '24**!  
 <span style="color:blue">[06/23]</span> _SCALO_ wins the Best Paper Award at **ISCA '23**!  
 <!-- <span style="color:blue">[05/23]</span> _SCALO_ nominated for the Best Paper Award at **ISCA '23**!  -->
