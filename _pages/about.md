@@ -26,7 +26,10 @@ and software for data center applications.
 
 News
 -----
-<span style="color:blue">[02/24]</span> [_Swapping-Centric Neural Recording Systems_](https://meugur.github.io/files/swapping-nvmw-24.pdf) accepted into **NVMW '24**  
+<span style="color:blue">[03/24]</span> Paper on [_Computing, Ethics, and Policy for BCIs_](https://meugur.github.io/files/vision-hotethics-24.pdf) accepted into **HotEthics '24**  
+<span style="color:blue">[03/24]</span> Paper on [_BCI Interoperability_](https://meugur.github.io/files/interop-hotethics-24.pdf) accepted into **HotEthics '24**  
+<span style="color:blue">[03/24]</span> [_Paper_](https://meugur.github.io/files/coverage-biosys-24.pdf) accepted into **BioSys '24**  
+<span style="color:blue">[02/24]</span> [_Paper_](https://meugur.github.io/files/swapping-nvmw-24.pdf) accepted into **NVMW '24**  
 <span style="color:blue">[01/24]</span> _SCALO_ selected as a top pick in **IEEE Micro Top Picks '24**!  
 <span style="color:blue">[06/23]</span> _SCALO_ wins the Best Paper Award at **ISCA '23**!  
 <!-- <span style="color:blue">[05/23]</span> _SCALO_ nominated for the Best Paper Award at **ISCA '23**!  -->

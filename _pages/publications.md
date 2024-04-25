@@ -4,6 +4,24 @@ permalink: /publications/
 author_profile: true
 ---
 <span style="color:blue">
+_Towards Forever Access for Implanted Brain-Computer Interfaces_,
+</span>
+**Muhammed Ugur**, Raghavendra Pradyumna Pothukuchi, Abhishek Bhattacharjee,
+The 1st Workshop on Hot Topics in Ethical Computer Systems, April, 2024. [[pdf]](https://meugur.github.io/files/interop-hotethics-24.pdf)
+
+<span style="color:blue">
+_The Interplay of Computing, Ethics, and Policy in Brain-Computer Interface Design_,
+</span>
+**Muhammed Ugur**, Raghavendra Pradyumna Pothukuchi, Abhishek Bhattacharjee,
+The 1st Workshop on Hot Topics in Ethical Computer Systems, April, 2024. [[pdf]](https://meugur.github.io/files/vision-hotethics-24.pdf)
+
+<span style="color:blue">
+_Leveraging NVMs for Neural Interface Coverage_,
+</span>
+**Muhammed Ugur**, Raghavendra Pradyumna Pothukuchi, Abhishek Bhattacharjee,
+The 1st Workshop on Emerging Computer Systems Challenges and Applications in Biomedicine, April, 2024. [[pdf]](https://meugur.github.io/files/coverage-biosys-24.pdf)
+
+<span style="color:blue">
 _Swapping-Centric Neural Recording Systems_,
 </span>
 **Muhammed Ugur**, Raghavendra Pradyumna Pothukuchi, Abhishek Bhattacharjee,
