@@ -4,6 +4,17 @@ permalink: /publications/
 author_profile: true
 ---
 <span style="color:blue">
+_Dataflow-Specific Algorithms for Resource-Constrained Scheduling and Memory Design_,
+</span>
+In Proceedings of the 37th ACM Symposium on Parallelism in Algorithms and Architectures (SPAA), July, 2025. [[pdf]](https://meugur.github.io/files/spaa-25.pdf)
+
+<span style="color:blue">
+_Foresee: A Modular and Open Framework to Explore Integrated Processing on Brain-Computer Interfaces_,
+</span>
+Aasmaan Yadav, Fernando Cuello Garcia, Alejandro Gonzalez, Bernardo Eilert Trevisan, Anna Xu, **Muhammed Ugur**, Abhishek Bhattacharjee, Raghavendra Pradyumna Pothukuchi,
+In Proceedings of the 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), July, 2025. [[pdf]](https://meugur.github.io/files/foresee-25.pdf)
+
+<span style="color:blue">
 _Towards Forever Access for Implanted Brain-Computer Interfaces_,
 </span>
 **Muhammed Ugur**, Raghavendra Pradyumna Pothukuchi, Abhishek Bhattacharjee,
