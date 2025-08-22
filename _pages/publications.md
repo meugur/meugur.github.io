@@ -3,28 +3,19 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+## Hardware-Software Co-Design for BCIs
 <span style="color:blue">
 _Dataflow-Specific Algorithms for Resource-Constrained Scheduling and Memory Design_,
 </span>
-In Proceedings of the 37th ACM Symposium on Parallelism in Algorithms and Architectures (SPAA), July, 2025. [[pdf]](https://meugur.github.io/files/spaa-25.pdf)
+Abhishek Bhattacharjee, Quanquan C. Liu, Rajit Manohar, Raghavendra Pradyumna Pothukuchi, **Muhammed Ugur**,
+In Proceedings of the 37th ACM Symposium on Parallelism in Algorithms and Architectures (SPAA), July, 2025. (Listed Alphabetically) [[pdf]](https://meugur.github.io/files/wrbpg-spaa-25.pdf)
 
 <span style="color:blue">
 _Foresee: A Modular and Open Framework to Explore Integrated Processing on Brain-Computer Interfaces_,
 </span>
 Aasmaan Yadav, Fernando Cuello Garcia, Alejandro Gonzalez, Bernardo Eilert Trevisan, Anna Xu, **Muhammed Ugur**, Abhishek Bhattacharjee, Raghavendra Pradyumna Pothukuchi,
-In Proceedings of the 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), July, 2025. [[pdf]](https://meugur.github.io/files/foresee-25.pdf)
-
-<span style="color:blue">
-_Towards Forever Access for Implanted Brain-Computer Interfaces_,
-</span>
-**Muhammed Ugur**, Raghavendra Pradyumna Pothukuchi, Abhishek Bhattacharjee,
-The 1st Workshop on Hot Topics in Ethical Computer Systems, April, 2024. [[pdf]](https://meugur.github.io/files/interop-hotethics-24.pdf)
-
-<span style="color:blue">
-_The Interplay of Computing, Ethics, and Policy in Brain-Computer Interface Design_,
-</span>
-**Muhammed Ugur**, Raghavendra Pradyumna Pothukuchi, Abhishek Bhattacharjee,
-The 1st Workshop on Hot Topics in Ethical Computer Systems, April, 2024. [[pdf]](https://meugur.github.io/files/vision-hotethics-24.pdf)
+In Proceedings of the 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), July, 2025. [[pdf]](https://meugur.github.io/files/foresee-embc-25.pdf)
 
 <span style="color:blue">
 _Leveraging NVMs for Neural Interface Coverage_,
@@ -45,6 +36,26 @@ Karthik Sriram, Raghavendra Pradyumna Pothukuchi, Michal Gerasimiuk, **Muhammed 
 In Proceedings of the 50th International Symposium on Computer Architecture (ISCA), June, 2023. [[pdf]](https://meugur.github.io/files/scalo-isca-23.pdf)  
 (**IEEE Micro Top Pick '24, Best Paper Award Winner 🏅**)
 
+## Ethics and Policy for BCIs
+<span style="color:blue">
+_Regulating Next-Generation Implantable Brain-Computer Interfaces: Recommendations for Ethical Development and Implementation_,
+</span>
+Renee Sirbu, Jessica Morley, Tyler Schroder, Raghavendra Pradyumna Pothukuchi, **Muhammed Ugur**, Abhishek Bhattacharjee, Luciano Floridi
+Pre-print, June, 2025 [[arXiv]](https://www.arxiv.org/abs/2506.12540) [[SSRN]](https://ssrn.com/abstract=5293145)
+
+<span style="color:blue">
+_Towards Forever Access for Implanted Brain-Computer Interfaces_,
+</span>
+**Muhammed Ugur**, Raghavendra Pradyumna Pothukuchi, Abhishek Bhattacharjee,
+The 1st Workshop on Hot Topics in Ethical Computer Systems, April, 2024. [[pdf]](https://meugur.github.io/files/interop-hotethics-24.pdf)
+
+<span style="color:blue">
+_The Interplay of Computing, Ethics, and Policy in Brain-Computer Interface Design_,
+</span>
+**Muhammed Ugur**, Raghavendra Pradyumna Pothukuchi, Abhishek Bhattacharjee,
+The 1st Workshop on Hot Topics in Ethical Computer Systems, April, 2024. [[pdf]](https://meugur.github.io/files/vision-hotethics-24.pdf)
+
+## Datacenters
 <span style="color:blue">
 _Whisper: Profile-Guided Branch Misprediction Elimination for Data Center Applications_,
 </span>
@@ -57,3 +68,4 @@ _One Profile Fits All: Profile-Guided Linux Kernel Optimizations for Data Center
 </span>
 **Muhammed Ugur**, Cheng Jiang, Alex Erf, Tanvir Ahmed Khan, and Baris Kasikci,
 ACM SIGOPS Operating Systems Review, ACM New York, NY, USA, 56, (1), pages 26-33, June, 2022. [[pdf]](https://meugur.github.io/files/one-profile-fits-all-osr-22.pdf) [[poster]](https://meugur.github.io/files/poster-pldi-21.pdf)
+

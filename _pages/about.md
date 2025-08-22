@@ -16,19 +16,25 @@ Prof. Tanvir Ahmed Khan.
 Research
 ======
 
-My research interest is in hardware-software co-design, specifically for 
-[neural interfaces](https://www.sigarch.org/the-brain-computer-interfacing-landscape-for-computer-architects). 
-I am currently working on designing scalable neural signal processors for both 
-clinical treatment and scientific study through the 
-[HALO](https://www.youtube.com/watch?v=eenFPogXcq4) project (partial tapeout 
-at 12 nm). Previously, I worked on profile-guided optimizations in hardware 
-and software for data center applications.
+My research focuses on hardware-software co-design to create efficient and scalable brain-computer interfaces (BCIs) for both clinical treatment and scientific study.
+I develop theoretically-grounded frameworks for software scheduling and processor design which applies across a broad range of resource-constrained devices.
+
+Currently, I am extending HALO, a flexible, low-power processing fabric for next-generation BCIs. 
+The HALO chip operates at sub-15 milliwatts to enable safe, permanent implantation while processing high-bandwidth neural signals. 
+My work involves synthesizing novel architectures that balance fast, real-time processing with minimal power consumption, for signal processing, machine learning, and new neuroscientific workloads.
+
+My interdisciplinary work spans ethics, neuroscience, algorithms, computer architecture, compilers, and VLSI, bridging the gap between theory and practical system design. 
+Previously, I applied this co-design philosophy to profile-guided optimizations for data center applications.
+
+For more information about computer architecture and BCIs, 
+I recommend reading the SIGARCH article [here](https://www.sigarch.org/the-brain-computer-interfacing-landscape-for-computer-architects) and 
+watching the video on the HALO project [here](https://www.youtube.com/watch?v=eenFPogXcq4).
 
 News
 -----
-<span style="color:blue">[06/25]</span> Started internship at Texas Instruments in the Kilby Labs AI Group  
-<span style="color:blue">[05/25]</span> [_Paper_](https://meugur.github.io/files/spaa-25.pdf) accepted into **SPAA '25**  
-<span style="color:blue">[04/25]</span> [_Foresee_](https://meugur.github.io/files/foresee-25.pdf) accepted into **EMBC '25**  
+<span style="color:blue">[06/25]</span> Started internship at Texas Instruments in the Kilby Labs AI Group on low-power AI        accelerators!  
+<span style="color:blue">[05/25]</span> Paper accepted into **SPAA '25** on [_Weighted Red-Blue Pebble Games_](https://meugur.github.io/files/wrbpg-spaa-25.pdf)  
+<span style="color:blue">[04/25]</span> [_Foresee_](https://meugur.github.io/files/foresee-embc-25.pdf) accepted into **EMBC '25**  
 <span style="color:blue">[03/24]</span> Paper on [_Computing, Ethics, and Policy for BCIs_](https://meugur.github.io/files/vision-hotethics-24.pdf) accepted into **HotEthics '24**  
 <span style="color:blue">[03/24]</span> Paper on [_BCI Interoperability_](https://meugur.github.io/files/interop-hotethics-24.pdf) accepted into **HotEthics '24**  
 <span style="color:blue">[03/24]</span> [_Paper_](https://meugur.github.io/files/coverage-biosys-24.pdf) accepted into **BioSys '24**  
